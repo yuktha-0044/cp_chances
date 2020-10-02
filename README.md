@@ -7,6 +7,15 @@ The ICPC formerly known as ACM-ICPC (Association for Computing Machinery - Inter
 It is quite simply, the oldest, largest, and most prestigious programming contest in the world.<br>
 <br>The ICPC is a multi-tier, team-based, programming competition. The contest participants come from over 2,000 universities that are spread across 80 countries and six continents.
 
+### Eligibility Criteria:
+- Willing and able to compete in the world finals.
+- Enrolled in a degree program at an institution (in or outside India) that can sponsor you.
+- Competing only for one institution for the calendar year.
+- You should not have participated in more than 2 contest finals prior to this attempt.
+- You should not have participated in more than 5 contest regionals prior to this attempt.
+- You cannot participate in more than 2 teams in the same year.
+- You cannot participate at more than 2 regionals in the same year (for Asia region).
+
 ### Contest Structure:
 The contest consists of two rounds:
 - [*ICPC Regionals*](https://icpc.global/regionals) : The regionals are organized by the local universities of different regions spread across the globe. The winners of these 
@@ -18,15 +27,6 @@ growth, innovation, and hosting. So depending on the number of slots that each r
 - Also, each regional site can have multiple rounds to select the best teams amongst those who apply. Typically they have an online contest, out of which selected teams are called
 for the onsite contest. These contests happen from the month of October to December.
 - [*World Finals*](http://icpc.baylor.edu/worldfinals) : The pick of the crop from every regional site locks horn at the World Finals.:raised_hands:
-
-### Eligibility Criteria:
-- Willing and able to compete in the world finals.
-- Enrolled in a degree program at an institution (in or outside India) that can sponsor you.
-- Competing only for one institution for the calendar year.
-- You should not have participated in more than 2 contest finals prior to this attempt.
-- You should not have participated in more than 5 contest regionals prior to this attempt.
-- You cannot participate in more than 2 teams in the same year.
-- You cannot participate at more than 2 regionals in the same year (for Asia region).
 
 ### Contest Format:
 - It is a team contest.
@@ -67,8 +67,38 @@ And usually the registrations open around March or April every year.
 
 Keep an eye on the [official website](https://codingcompetitions.withgoogle.com/codejam) for further details.:eyes:
 
+## 3. Facebook Hackercup:
+Facebook hacker cup is an annual algorithmic programming contest organized by Facebook. Be it students, professionals or experts it attracts numerous programming enthusiasts from all around the globe. Top contenders are eligible for the interview call from Facebook for Software Developer role.<br>
+Facebook Hacker cup is particularly known for its different environment used for Judging and the variety of problems. It is conducted in many rounds where the difficulty of algorithmic challenges keep on increasing.
 
+### Contest structure:
+- *Qualification round*: Is the easiest round in which at least 1 problem needs to be solved successfully in order to advance in the next round. This round lasts for 72 hours.
+- *Round 1* : The selected candidates participate in round 1 which lasts for 24 hours and must gain at least certain number of points ( decided accordingly every year) to qualify for the round 2. This round is fairly difficult than the qualification round.
+- *Round 2*: Candidates selected from the round 1 advance to participate in round 2 and compete in 3-hour format contest. Top 200 participants advance to Round 3 and top 500 participants are awarded with Hackercup T-shirt.
+- *Round 3*: Top 200 participants compete in this 3-hour format contest and top 25 qualify for Onsite Final. From now on the problem set gets tough.
+Onsite Final: Top 25 participants from all over the globe compete for winning the title and trophy of Facebook hacker cup at its headquarters. Problems are quite challenging and are good enough to make the contestants sweat head to toe.<br>
+<br>And the 1st person on the leader board bags the title and basks in glory.:fire:
 
+### How it works?
+The judging format of Facebook hacker cup is quite different from other annual programming contests like ACM-ICPC or IOI.
 
+- When the contest begins users are required to login in the website.
+- After logging in they are presented with the problem set. After you think you have solved a problem and sure about its correctness, you have to download an input test file.
+- As soon as the input test file is downloaded a timer of 6 minutes commences and in that window of time you are required to run the input test file over your code and form a test file. Within 6 minutes you need to submit both the code and the output text file.
+- You can submitted more than once and only the last correct submission will be used for evaluation.
+- Once the timer expires you will be unable to submit the solution for that problem again. Time penalty is the sum of submission times of a problem.
 
+### Takeaways: (May vary year to year)
+The 25 finalists will receive the following prizes (in USD):
+- 1st: $20,000
+- 2nd: $10,000
+- 3rd: $5,000
+- 4th: $3,000
+- 5th: $1,000
+- 6th - 10th: $500
+- 11th - 15th: $300
+- 16th - 25th: $200
 
+The qualification round customarily takes place around July or August every year.
+
+Keep an eye on the [official website](https://www.facebook.com/codingcompetitions/hacker-cup/) for further details.:eyes:
