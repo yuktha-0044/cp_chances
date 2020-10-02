@@ -17,7 +17,7 @@ Additional slots may also be allocated based on student and institution particip
 growth, innovation, and hosting. So depending on the number of slots that each regional site gets, that many numbers of top teams it can send to the World Finals.
 - Also, each regional site can have multiple rounds to select the best teams amongst those who apply. Typically they have an online contest, out of which selected teams are called
 for the onsite contest. These contests happen from the month of October to December.
-- [*World Finals*](http://icpc.baylor.edu/worldfinals) : The pick of the crop from every regional site locks horn at the World Finals.
+- [*World Finals*](http://icpc.baylor.edu/worldfinals) : The pick of the crop from every regional site locks horn at the World Finals.:raised_hands:
 
 ### Eligibility Criteria:
 - Willing and able to compete in the world finals.
@@ -41,7 +41,9 @@ $6,000 and each Bronze Medal team is awarded $3,000. Courtesy of the UPE Compute
 For the other solved problems, The First to Solve Award will be $1,200.<br>
 And more important than all, the winners also get some super bragging rights and job offers from some of the top software companies in the world! 
 
-Click [here](https://icpc.global/) for further details.
+Click [here](https://icpc.global/) for further details. :eyes:
+
+
 
 
 
