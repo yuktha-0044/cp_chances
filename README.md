@@ -35,7 +35,7 @@ for the onsite contest. These contests happen from the month of October to Decem
 - The coach can head multiple teams
 - The contest can have several problems (8 to 10 in general), of varying difficulty levels and mostly being algorithmic in nature.
 
-### Takeaways:
+### Perks:
 In terms of prize money, the top team takes home $15,000 along with the ICPC Gold medal. Three other teams getting Gold Medal are awarded $7,500. Each Silver Medal team gets 
 $6,000 and each Bronze Medal team is awarded $3,000. Courtesy of the UPE Computer Science Honor Society, the First Solution Award will be $1,500.
 For the other solved problems, The First to Solve Award will be $1,200.<br>
@@ -88,7 +88,7 @@ The judging format of Facebook hacker cup is quite different from other annual p
 - You can submitted more than once and only the last correct submission will be used for evaluation.
 - Once the timer expires you will be unable to submit the solution for that problem again. Time penalty is the sum of submission times of a problem.
 
-### Takeaways: (May vary year to year)
+### Perks : (May vary year to year)
 The 25 finalists will receive the following prizes (in USD):
 - 1st: $20,000
 - 2nd: $10,000
@@ -102,3 +102,50 @@ The 25 finalists will receive the following prizes (in USD):
 The qualification round customarily takes place around July or August every year.
 
 Keep an eye on the [official website](https://www.facebook.com/codingcompetitions/hacker-cup/) for further details.:eyes:
+
+
+## Google Hashcode:
+Hash Code is a team programming competition, organized by Google, for students and professionals around the world. You pick your team and programming language and we pick an engineering problem for you to solve. This year’s contest kicks off with an Online Qualification Round, where your team can compete from wherever you’d like, including from one of their Hash Code hubs. Top teams will then be invited to a Google office for the Final Round.
+
+### Eligibility Criteria:
+The Hash Code Online Qualification Round is open for students and professionals of all skill levels who are at least 16 years old. There are additional age requirements for finalists. Check their [Coding Competition Terms](https://codingcompetitions.withgoogle.com/terms) for the full list of eligibilities.
+
+### How do I register?
+Registration for Hash code will open in early 2020 and you can register here. You must complete the following 3 steps in order to compete in Hash Code 2020:
+
+- Create a Coding Competitions profile and/or update your existing profile,
+- Register for Hash Code 2020 specifically, and
+- Form a team of 2 to 4 people in the Judge System.
+
+### How it works?
+Once registered for the contest, you’ll gain access to their Judge System. The Judge System is Google’s online platform where you’ll form your team, join a hub, practice, and compete during the rounds. During the Online Qualification Round, you’ll watch their YouTube live stream to be introduced to the problem, and your team will have four hours to solve an optimization problem using the programming language and tools of your choice. Teams can compete from a local hub or another location of their choice. The top teams from the Online Qualification Round will be invited to the Final Round at a Google office, where they’ll work together to solve another challenge and compete for cash prizes.
+
+### Perks :
+Prize money per *participant*
+- 1st Place -	$4,000 USD
+- 2nd Place -	$2,000 USD
+- 3rd Place -	$1,000 USD
+
+Generally, everyyear the registrations starts around December or January.
+For further details, make sure you check their [official website](https://codingcompetitions.withgoogle.com/hashcode/).
+
+## Google Kickstart:
+Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).<br>
+<br>Designed to hire the best minds of Asia Pacific region, the test primarily focuses on problem solving abilities, Data Structures and algorithms.
+
+## Eligibility Criteria:
+You can be either a student or a working professional who is interested in technology.
+
+### How it works?
+- You can use any programming language or IDE if they are licensed.
+- Judging environment is quite different, instead of just uploading your code, you need to upload an output text file also.
+- Competition arena consists of problems to be solved.
+- For any single problem there exist 2 subparts
+- Small Input with small constraints.
+- Large Input with large constraints.
+
+For knowing some do's and don't's refer this [blog](https://medium.com/@rajatendud/what-is-google-kickstart-fe0fff59de6e)
+*Note* : This is an online competition which runs throughout the year and the registrations are always open. You can register at - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart).
+
+For any further queries, kindly google them.:raised_hands:
+
