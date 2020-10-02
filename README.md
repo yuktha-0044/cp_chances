@@ -43,6 +43,29 @@ And more important than all, the winners also get some super bragging rights and
 
 Click [here](https://icpc.global/) for further details. :eyes:
 
+## 2. Google Code Jam
+
+Code Jam is Google’s longest running global coding competition, where programmers of all levels put their skills to the test. Competitors work their way through a series of online algorithmic puzzles to earn a spot at the World Finals.<br>
+Contestants advance through four online-hosted rounds to compete at the annual Code Jam World Finals that is held at a different international Google office each year. Each round brings new challenges, and in the end 25 contestants will have the ultimate chance to put their skills to the test, vying for cash prizes and the coveted championship title at the World Finals.
+
+
+### Eligibility Criteria:
+- Programmers around the world
+- You understand and acknowledge the age requirements specified in the [Coding Competitions Terms](https://codingcompetitions.withgoogle.com/terms#eligibility).
+- You understand and acknowledge that you must be at least the Minimum Age to be eligible to attend the onsite Final Round of the CJ Contest. If your age is not at least the       Minimum Age, you are only eligible to win a t-shirt.
+
+### How it works?
+
+Register and compete in Code Jam’s online qualification round. It lasts 27 hours, but you won’t need that long to earn the round’s qualifying point minimum. Once you do, you’ll advance to online round 1. Google offers three sub-rounds for Round 1, and you can compete in as many as it takes for you to finish in the top 1,500 of any of these rounds.
+
+The top 1,500 from each sub-round move on to compete for a spot in the top 1,000 contestants of online round 2. These top 1,000 contestants advance to online round 3 and earn a limited-edition event t-shirt.
+
+Google will bring the top 25 contestants from Code Jam online round 3 to their onsite World Finals, where they’ll compete for the championship title and a cash prize of $15,000.
+(Yayyy!)
+
+And usually the registrations open around March or April every year.
+
+Keep an eye on the [official website](https://codingcompetitions.withgoogle.com/codejam) for further details.:eyes:
 
 
 
