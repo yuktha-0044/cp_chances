@@ -133,7 +133,7 @@ For further details, make sure you check their [official website](https://coding
 Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).<br>
 <br>Designed to hire the best minds of Asia Pacific region, the test primarily focuses on problem solving abilities, Data Structures and algorithms.
 
-## Eligibility Criteria:
+### Eligibility Criteria:
 You can be either a student or a working professional who is interested in technology.
 
 ### How it works?
