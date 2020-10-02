@@ -144,8 +144,8 @@ You can be either a student or a working professional who is interested in techn
 - Small Input with small constraints.
 - Large Input with large constraints.
 
-For knowing some do's and don't's refer this [blog](https://medium.com/@rajatendud/what-is-google-kickstart-fe0fff59de6e)
-*Note* : This is an online competition which runs throughout the year and the registrations are always open. You can register at - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart).
+For knowing some do's and don't's refer this [blog](https://medium.com/@rajatendud/what-is-google-kickstart-fe0fff59de6e)<br>
+<br>*Note* : This is an online competition which runs throughout the year and the registrations are always open. You can register at - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart).
 
 For any further queries, kindly google them.:raised_hands:
 
